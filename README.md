@@ -1,2 +1,2 @@
 # Auto-payment-Future-payment-
-Future payment in PayPal in Android
+Future payment in Android using PayPal SDK
